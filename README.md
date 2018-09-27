@@ -1,1 +1,12 @@
-# CPE-SquareNumbers_10093
+# Square Numbers
+
+完全平方數就是平方根為整數的整數。例如 1, 4, 81 就是完全平方數。給你兩個整數 a 和 b，請你求出 a 與 b 之間 (含) 有幾個完全平方數。  
+
+輸入檔最多有 201 行的輸入。每行有兩個整數 a 和 b (0<a≤b≤100000)。輸入以含有兩個 0 的一行作為結束，請勿對這行做任何輸出。 
+
+對於每行輸入，請產生一行輸出，這行含有一個整數，代表 a 與 b 之間 (含) 有多少個完全平方數。 
+
+
+# Output example
+* 已成功通過「瘋狂程設」閱卷系統批改測試 
+![image](https://github.com/Samuelchi861008/CPE-SquareNumbers_10093/blob/master/結果.png)
